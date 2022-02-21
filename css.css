@@ -86,7 +86,7 @@ ul.categorias li a{
     padding: 10px;
 }
 
-ul.Filmes {
+ul.listaFilme {
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -94,18 +94,18 @@ ul.Filmes {
     width: 100%;
 }
 
-ul.Filmes li {
+ul.listaFilme li {
     max-width: 185px;
     margin-bottom: 50px;
 }
 
-ul.Filmes figure {}
+ul.listaFilme figure {}
 
-ul.Filmes figure img {
+ul.listaFilme figure img {
     width: 100%;
 }
 
-ul.Filmes li h2 {
+ul.listaFilme li h2 {
     color: #fff;
     font-size: 14px;
     text-align: center;
